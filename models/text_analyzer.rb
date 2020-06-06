@@ -34,10 +34,10 @@ class TextAnalyzer
 
 
     arr2.each do |key, value|
-      binding.pry
       if value > biggest.values.first
         biggest = {}
         biggest[key] = value
+        binding.pry
       end
     end
 
