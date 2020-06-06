@@ -43,7 +43,7 @@ class TextAnalyzer
 
     biggest
   end
-0
+
   # def most_used_letter
   #   no_spaces = text.gsub(/[^a-z]/, '') # gets rid of spaces
   #   letters = no_spaces.split("")
