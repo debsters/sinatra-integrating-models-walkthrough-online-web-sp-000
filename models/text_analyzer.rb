@@ -52,4 +52,3 @@ class TextAnalyzer
   # end
 
 end
-0
